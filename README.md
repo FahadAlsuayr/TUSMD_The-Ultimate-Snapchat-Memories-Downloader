@@ -30,8 +30,8 @@ This tool is designed for speed and data integrity. It solves the common problem
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/FahadAlsuayr/snapchat-memory-downloader.git
-    cd snapchat-memory-downloader
+    git clone https://github.com/FahadAlsuayr/TUSMD_The-Ultimate-Snapchat-Memories-Downloader.git
+    cd tusmd_the-ultimate-snapchat-memory-downloader
     ```
 
 2.  **Install dependencies**
