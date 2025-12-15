@@ -1,4 +1,4 @@
-# Snapchat Memory Downloader
+# (TUSMD) The Ultimate Snapchat Memory Downloader
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
